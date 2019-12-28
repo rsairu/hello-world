@@ -10,7 +10,7 @@ Lines of Python code grouped together are called blocks.
 - Blocks can contain other blocks.
 - Blocks end when the indentation decreases to zero, or to the indentation of the containing block.
 
-[Lists](##Lists) are exceptional to block indentation rules.
+[Lists](#Lists) are exceptional to block indentation rules.
 The line continuation character (\) is used to split a single instruction acress multiple lines.
 
 
