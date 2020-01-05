@@ -13,15 +13,15 @@
     + [Boolean operators (and order of operations)](#boolean-operators--and-order-of-operations-)
   * [Data types](#data-types)
     + [Data type conversion functions](#data-type-conversion-functions)
-  * [Functions](#functions)
+  * [Functions & Methods](#functions---methods)
+    + [Functions](#functions)
     + [Function definition](#function-definition)
-  * [Methods](#methods)
-  * [Variables](#variables)
-    + [Variable scope](#variable-scope)
+    + [Methods](#methods)
+  * [Variables & Parameters](#variables---parameters)
+    + [Variable naming:](#variable-naming-)
+    + [Scope](#scope)
   * [Flow Control](#flow-control)
   * [Modules](#modules)
-  * [Parameters](#parameters)
-  * [Scope](#scope)
   * [Errors](#errors)
   * [Lists](#lists)
     + [Slices](#slices)
@@ -32,6 +32,7 @@
     + [Dictionary methods](#dictionary-methods)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 
 # Python: An Overview
@@ -100,7 +101,7 @@ Symbol | Meaning
 
 
 #### Multiple assignment
-Multiple assignment refers to assigning multiple variables with the values in a list. The number of variables and the length ot the list must be equal.
+Multiple assignment refers to assigning multiple variables with the values in a list. The number of variables and the length of the list must be equal.
 ```python
 cat = ['fat', 'black', 'loud']
 size, color, disposition = cat
@@ -159,15 +160,32 @@ Function | Notes
 `list()` 	| Data type conversion (from tuple or list-like object (see Dictionary Methods))
 `tuple()` | Data type conversion (from list)
 
-## Functions
-Functions are "called" (i.e., a "function call"). Values are passed to functions. Passed values are arguments.
-Functions are identified by () after the function name.
-Functions may take keyword arguments which modify the output.
-All function calls need to evaluate to a return value:
-- `return statement`
-- `return None`
-- (or simply) `return`
+## Functions & Methods
+- Functions are "called" (i.e., a "function call").
+- Values are passed to functions. Passed values are arguments.
+- Functions are identified by () after the function name.
+- Functions may take keyword arguments which modify the output.
+  - Keyword arguments, often used for optional parameters, are identified by the keyword put before them in a function call.
+```python
+print('Hello')
+print('World')
+#Output is across two lines:
+#Hello
+#World
 
+#Using the option keyword "end", the output ends with a blank space instead of a newline
+print('Hello', end=' ')
+print('World')
+#Output is on same line:
+#Hello World
+```
+- In general, the value that a function call evaluates to is called the return value of the function. 
+- All function calls need to evaluate to a return value. A return statement consists of the `return` keyword and the value or expression that the function should return:
+  - `return statement`
+  - `return None`
+  - `return` (same as `return None`)
+
+### Functions
 Function | Notes | Keyword Arguments
 --|:--|:--
 `print()` | Displays the string value inside the parentheses on the screen | end=; sep=
@@ -180,34 +198,56 @@ Function | Notes | Keyword Arguments
 Functions are defined with the `def` statement
 ```python
 def functionName(parameters):
-	code block, which is the function body, executed upon function call
-	return statement
+    # code block, which is the function body, executed upon function call
+    return statement
 ```
-Code in a function's local scope cannot use variables in any other local scope.
 
-## Methods
-A method is "the same thing as a function, except it is 'called on' a value."
-The syntax is `value.method`
-Methods belong to a single data type.
+### Methods
+- A method is "the same thing as a function, except it is 'called on' a value."
+- Methods belong to a single data type.
+- The syntax is `value.method`
+```python
+listMethods = ['index()','append()','insert()']
+listMethods.append('remove()')
+```
 
-## Variables
-A variable is "like a box in the computer's memory where you can store a single value."
-A variable is initialized the first time a value is stored in it.
-Overwriting refers to storing new value in a variable.
-Variables:
+## Variables & Parameters
+- A variable is "like a box in the computer's memory where you can store a single value."
+- A variable is initialized the first time a value is stored in it.
+- "Overwriting" refers to storing new value in a variable.
+- Python uses references whenever variables must store values of mutable data types.
+
+- A parameter is a variable in which an argument is stored when a function is called. 
+  - Parameter values are forgotten upon function return.
+
+### Variable naming:
 - Can only be one word, case sensitive
 - Can only use letters, numbers, and underscore (_) character
 - Cannot begin with a number
+- Can use the same name if they are in different scopes.
 
-Different variables can use the same name if they are in different scopes.
+### Scope
+- A variable must be either a local variable or a global variable.
+- Variables that are assigned outside all functions are said to exist in the global scope.
+- If a variable is used in the global scope, then it is always a global variable.
+ - Code in a function's local scope cannot use variables in any other local scope.
+   -  If there is a `global` statement for that variable in a function, it is a global variable.
+- Parameters and variables that are assigned in a called function are said to exist in that function's local scope.
+  -  If the variable is not used in an assignment statement, it is a global variable.
+- Code in the global scope cannot use any local variables.
 
-Python uses references whenever variables must store values of mutable data types.
+```python
+cellphone = 'android'
 
-### Variable scope
-If a variable is being used in the global scope, then it is always a global variable.
-If there is a global statement for that variable in a function, it is a global variable.
-If the variable is used in an assignment statement in the function, it is a local variable.
-If the variable is not used in an assignment statement, it is a global variable.
+def buyNewPhone(newPhone):
+    global cellphone
+    cellphone = newPhone
+    return None
+
+buyNewPhone('iPhone')
+print(cellphone)
+# Output is 'iPhone'
+```
 
 ## Flow Control
 - Flow control statements "can decide which Python instructions to execute under which conditions." 
@@ -246,23 +286,6 @@ from random import *
 ```
 - With a `from ... import *` statement, function calls do not require the module name prefix.
 
-## Parameters
-A parameter is a variable in which an argument is stored when a function is called. 
-Parameter values are forgotten upon function return.
-In general, the value that a function call evaluates to is called the return value of the function. 
-A return statement consists of the `return` keyword and the value or expression that the function should return.
-Keyword arguments, often used for optional parameters, are identified by the keyword put before them in a function call. E.g.,:
-	print('Hello', end=' ') (ending with a space instead of the newline)
-
-## Scope
-Parameters and variables that are assigned in a called function are said to exist in that function's local scope.
-Variables that are assigned outside all functions are said to exist in the global scope.
-A variable must be either a local variable or a global variable.
-	Code in the global scope cannot use any local variables.
-	Local scope can access global variables using the "global" statement.
-
-
-
 ## Errors
 Errors can be handled with try and except statements. I.e.:
 		try:
@@ -272,6 +295,7 @@ Errors can be handled with try and except statements. I.e.:
 
 Error Type | Description
 --|:--
+`SyntaxError` | There is an error in the code
 `ValueError` | E.g., passing a string where an integer is expected, or a float for an index
 `ZeroDivisionError` | Dividing by 0
 `IndexError` | The index exceeds the number of values in a list
@@ -322,8 +346,8 @@ myBreakfast = breakfast
 yourBreakfast = breakfast
 yourBreakfast.append('coffee')
 
-# evaluates to True
 'coffee' in myBreakfast
+# Evaluates to True
 ```
 
 The *copy* module has the `copy()` and `deepcopy()` functions.
@@ -337,7 +361,7 @@ Function | Notes
 - Tuples `()` are like lists, but they are immutable.
 - A tuple with only one value is indicated with a trailing comma (to distinguish from regular parentheses operator)
 ```python
-('singletonTuple',)
+myTuple = ('singletonTuple',)
  ```
 
 ## Dictionaries
@@ -346,11 +370,11 @@ Function | Notes
  - Dictionary indices (keys) can be other data types beyond integers.
 - Checking for a value `in` a dictionary's keys is the same as checking `in` the dictionary itself.
 ```python
-spam = {'car':'ford', 'boat':'pearson'}
+vehicles = {'car':'ford', 'boat':'pearson'}
 
-# The below expressions both evaluate to True
-'car' in spam.keys()
-'car' in spam
+# Both expressions below evaluate to True
+'car' in vehicles.keys()
+'car' in vehicles
 ```
 
 ### Dictionary methods
