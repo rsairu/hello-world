@@ -1,3 +1,39 @@
+- [Python: An Overview](#python--an-overview)
+  * [Execution](#execution)
+  * [Expressions](#expressions)
+  * [Blocks](#blocks)
+  * [Output & Input](#output---input)
+    + [Escape characters](#escape-characters)
+  * [Comments](#comments)
+  * [Operators](#operators)
+    + [Assignment & augmented assignment operators](#assignment---augmented-assignment-operators)
+      - [Multiple assignment](#multiple-assignment)
+    + [Comparison operators](#comparison-operators)
+  * [Booleans](#booleans)
+    + [Boolean operators (and order of operations)](#boolean-operators--and-order-of-operations-)
+  * [Data types](#data-types)
+    + [Data type conversion functions](#data-type-conversion-functions)
+  * [Functions](#functions)
+    + [Function definition](#function-definition)
+  * [Methods](#methods)
+  * [Variables](#variables)
+    + [Variable scope](#variable-scope)
+  * [Flow Control](#flow-control)
+  * [Modules](#modules)
+  * [Parameters](#parameters)
+  * [Scope](#scope)
+  * [Errors](#errors)
+  * [Lists](#lists)
+    + [Slices](#slices)
+    + [List methods](#list-methods)
+    + [Copying lists](#copying-lists)
+  * [Tuples](#tuples)
+  * [Dictionaries](#dictionaries)
+    + [Dictionary methods](#dictionary-methods)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 # Python: An Overview
 Based on *Automate the Boring Stuff with Python* by Al Sweigart.
 
