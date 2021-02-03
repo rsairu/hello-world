@@ -3,7 +3,7 @@
 20 gallon community tetra tank in [iwagumi](https://duckduckgo.com/?q=iwagumi&iax=images&ia=images) style. Heavier planting in the back for fish comfort.
 1 inch sand substrate, then soil.
 
-**Breakfast** 8-10 AM PST (flakes, algae wafer, or shrimp pellet)
+**Breakfast** 8-10 AM PST (flakes, algae wafer, or shrimp pellet)  
 **Dinner** +~12H after breakfast (freeze dried bloodworm)
 
 ## Fishy
@@ -35,3 +35,4 @@
 * Orlushy heater (76°F / 24.4°C)
 
 *RIP first wave of Thanksgiving Fish (x9(?) neon tetra). We love you*
+*We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time.* -T. S. Eliot
