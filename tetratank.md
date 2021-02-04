@@ -2,7 +2,7 @@
 
 20 gallon community tetra tank in [iwagumi](https://duckduckgo.com/?q=iwagumi&iax=images&ia=images) style.  
 
-**Breakfast** 8-10 AM PST (flakes, algae wafer, or shrimp pellet)  
+**Breakfast** 8-10 AM PST (flakes, algae wafer, or shrimp food (omnivore pellet))  
 **Dinner** +~12H after breakfast (freeze dried bloodworm)
 
 ## Fishy
