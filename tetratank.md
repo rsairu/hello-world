@@ -2,9 +2,6 @@
 
 20 gallon community tetra tank in [iwagumi](https://duckduckgo.com/?q=iwagumi&iax=images&ia=images) style.  
 
-**Breakfast** 8-10 AM PST (flakes, algae wafer, or shrimp food (omnivore pellet))  
-**Dinner** +~12H after breakfast (freeze dried bloodworm)
-
 ## Fishy
 
 ||||
@@ -13,6 +10,12 @@
 |x 11 | Neon tetra [Paracheirodon innesi](https://en.wikipedia.org/wiki/Neon_tetra) | ![Neon](./aquarium/neon.png) |
 |x 2 | Dwarf sucker [Otocinclus](https://en.wikipedia.org/wiki/Otocinclus) | ![Oto](./aquarium/oto.png) |
 |x 3 | Apple / Mystery snails [Ampullariidae](https://en.wikipedia.org/wiki/Ampullariidae) | ![Gold snail](./aquarium/marimo.png) <br> ![Black snail](./aquarium/blackSnail.png) <br> ![Blue snail](./aquarium/blueSnail.png) |
+
+## Diet
+**Menu**: Flakes, algae wafer, blanched zucchini, freeze dried bloodworm, shrimp food (omnivore pellet)  
+**Breakfast** 8-10 AM PST  
+**Dinner** +~12H after breakfast
+
 
 ## Scape
 
@@ -34,7 +37,7 @@ Tap pH, 76°F / 24.4°C
 * [Hygger Eco slim wave maker](https://github.com/rsairu/howto/blob/main/hygger_eco_slim.md)
 * [Fluval Aquaclear filter](https://github.com/rsairu/howto/blob/main/fluval_aquaclear_powerfilter.md)
 * Fluval Aquasky LED
-* Orlushy heater
+* [Orlushy heater](https://github.com/rsairu/howto/blob/main/orlushy_heater.md)
 
 *RIP first wave of Thanksgiving Fish (x9(?) neon tetra). We love you*
 *We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time.* -T. S. Eliot
