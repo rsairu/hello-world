@@ -1,7 +1,6 @@
 # Tetra Tank
 
-20 gallon community tetra tank in [iwagumi](https://duckduckgo.com/?q=iwagumi&iax=images&ia=images) style. Heavier planting in the back for fish comfort.
-1 inch sand substrate, then soil.
+20 gallon community tetra tank in [iwagumi](https://duckduckgo.com/?q=iwagumi&iax=images&ia=images) style.  
 
 **Breakfast** 8-10 AM PST (flakes, algae wafer, or shrimp pellet)  
 **Dinner** +~12H after breakfast (freeze dried bloodworm)
@@ -16,6 +15,9 @@
 |x 3 | Apple / Mystery snails [Ampullariidae](https://en.wikipedia.org/wiki/Ampullariidae) | ![Gold snail](./aquarium/goldSnail.png) <br> ![Black snail](./aquarium/blackSnail.png) <br> ![Blue snail](./aquarium/blueSnail.png) |
 
 ## Scape
+
+Bare bottom water column at wave maker/filter. 1 inch white sand substrate over soil, with heavier planting in the back for fish comfort.
+Tap pH, 76°F / 24.4°C
 
 |||
 | --- | --- |
@@ -32,7 +34,7 @@
 * [Hygger Eco slim wave maker](https://github.com/rsairu/howto/blob/main/hygger_eco_slim.md)
 * [Fluval Aquaclear filter](https://github.com/rsairu/howto/blob/main/fluval_aquaclear_powerfilter.md)
 * Fluval Aquasky LED
-* Orlushy heater (76°F / 24.4°C)
+* Orlushy heater
 
 *RIP first wave of Thanksgiving Fish (x9(?) neon tetra). We love you*
 *We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time.* -T. S. Eliot
