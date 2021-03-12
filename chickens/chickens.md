@@ -10,7 +10,8 @@ Your job as a bird keeper is to protect your birds.
 
 
 ## Habitat
-A chicken **coop** isn’t used so much to keep the birds in as it is to keep predators out.
+
+A chicken **coop** is a shelter. It isn’t used so much to keep the birds in as it is to keep predators out, and to protect the birds from the elements. A chicken coop should have a roost, sufficient ventilation, and nesting boxes.
 
 A **chicken run** is the fenced in area around the coop. Chickens run around in a chicken run. Wire should cover from above (raptor attacks or climbing predators) and well below (burrowing predators). Example predators: hawks, cats, dogs, raccoons, possums, coyotes, skunks.
 
@@ -22,11 +23,19 @@ Use vertical spaces, especially within the coop, to maximize habitat space effic
 
 Keep watering sources elevated above dirt to prevent chickens from digging dirt into them.
 
-Chickens like to share a **nesting box**. One box can be used by a small flock. They are typically only used to lay eggs in.
+Chickens like to share a **nesting box**. One box can be used by a small flock. They are typically only used to lay eggs in; typically hens lay their eggs in the same place. Nesting boxes should contain nesting material such as wood shavings.
 
+Chickens space requirements:
+* 2-3 sqft (inside chicken coop)
+* 8-10 sqft (outside run)
+
+Check city ordinances on chicken keeping. Familiarize yourself with local vendors that service the agricultural community.
 
 ## Behavior and hygiene
-Chickens will eat weed and grass clippings. Easy eaters; do not feed them chicken, they will eat. You can also purchase organic chicken feed.
+
+Chickens will eat weed and grass clippings. Easy eaters; do not feed them chicken, they will eat. You can also purchase organic chicken feed. A full grown chicken might require 1 - 1.5 cups of feed per day.
+
+Chickens love eating worms / caterpillars, and other bugs.
 
 Can drink from water nipples.
 
@@ -42,11 +51,13 @@ Chickens sleep standing up (**roosting**).
 
 Chickens can cohabitate with rabbits or ducks. Note that chicken and duck habitats are somewhat distinct.
 
-Chickens can overheat easily (they are birds).
+Chickens can overheat easily (they are birds). They require access to fresh water.
 
 Attract mice and rats, which chickens will eat, but shouldn’t; you need a rodent predator or control mechanism.
 
 Chickens can develop eye problems from pests (diatomaceous earth can aide).
+
+Chickens produce (a lot) of (non-pungent) biowaste that must be cleaned out. It is compostable.
 
 ## Eggs
 
@@ -70,7 +81,12 @@ Stoney Ridge Farmer. Raising Chickens 101 Best advice and education you’ll fin
 
 Gennetta, Nicole. How Many Eggs Does A Chicken Lay A Day. https://www.heritageacresmarket.com/how-many-eggs-does-a-chicken-lay-a-day/.  Jan 23, 2020. 
 
+City Prepping. How to raise chickens in your backyard (10 tips). https://www.youtube.com/watch?v=8G8cH740_TQ. Oct 14, 2017.
+
 ##Images
+
+![](prefab-coop.png)
+A prefabricated chicken coop with a roll out tray for biowaste management underneath the roosting poles.
 
 ![](chicken-run.png)
 
@@ -97,6 +113,10 @@ A chick brooder with a suspended heat lamp. Note the specialized feeder at the b
 
 ## Working notes
 
+---
+
+Stoney ridge farmer 
+
 Hatchery
 
 Mobile coops
@@ -117,5 +137,7 @@ Patriculture
 Cornish cross bird / Rainbow ranger
 
 Hens can eat weeds out of a garden.
+
+
 
 ---
