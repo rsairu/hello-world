@@ -7,6 +7,7 @@ Your job as a bird keeper is to protect your birds.
 * [Behavior and hygiene](#Behavior-and-hygiene)
 * [Eggs](#Eggs)
 * [Sources](#Sources)
+* [Images](#Images)
 
 
 ## Habitat
@@ -83,28 +84,28 @@ Gennetta, Nicole. How Many Eggs Does A Chicken Lay A Day. https://www.heritageac
 
 City Prepping. How to raise chickens in your backyard (10 tips). https://www.youtube.com/watch?v=8G8cH740_TQ. Oct 14, 2017.
 
-##Images
+## Images
 
-![](prefab-coop.png)
+![](prefab-coop.png)  
 A prefabricated chicken coop with a roll out tray for biowaste management underneath the roosting poles.
 
-![](chicken-run.png)
+![](chicken-run.png)  
 
 Chickens and chicks in a chicken run eating vegetative clippings. Note wire of the chicken run in background and the raised watering sources.
 
-![](buried-fence.png)
+![](buried-fence.png)  
 A chicken run with wire running deep underground to prevent entry by burrowing predators.
 
-![](molt.png)
+![](molt.png)  
 A chicken molting
 
-![](nesting-box.png)
+![](nesting-box.png)  
 Several chickens in a nesting box.
 
-![](roosting.png)
+![](roosting.png)  
 Chickens roosting on suspended rods.
 
-![](brooder-pen.png)
+![](brooder-pen.png)  
 A chick brooder with a suspended heat lamp. Note the specialized feeder at the bottom and the marble/gravel in the water source (holding).
 
 ---
