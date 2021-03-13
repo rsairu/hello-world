@@ -15,12 +15,20 @@
 
 ## Diet
 
-**Menu**: Flakes, algae wafer, blanched zucchini, freeze dried bloodworm, shrimp food (omnivore pellet)  
-**Breakfast** 8-10 AM PST  
-**Dinner** +~12H after breakfast
+**Breakfast**  
+7-10 AM PST, 2-3 days a week
+Flakes
+ 
+**Dinner**  
+7-10 PM after breakfast, daily (occasional fast)
+Flakes + bloodworm (freeze dried)
+
+**Snacks**  
+1/day, 3-4 days a qeek
+Algae wafer, blanched zucchini, shrimp food (omnivore pellet)
 
 
-## Scape
+## Habitat
 
 * Bare bottom water column at wave maker (tech end).
 * 1 inch white sand substrate over soil, with heavier planting in the back for fish comfort (garden end).
