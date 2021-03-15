@@ -1,16 +1,17 @@
 # The Chicken Manual
+
 *v2*  
-Easy – they pretty much take care of themselves.  
-Your job as a bird keeper is to protect your birds.
 
-* [Habitat](#Habitat)
-* [Behavior and hygiene](#Behavior-and-hygiene)
-* [Eggs](#Eggs)
-* [Sources](#Sources)
-* [Images](#Images)
+![](chicken-insteading.gif)
 
+Easy – they pretty much take care of themselves. Your job as a bird keeper is to protect your birds.
+
+[Habitat](#Habitat) | [Behavior](#Behavior) |  [Hygiene](#Hygiene) |  [Eggs](#Eggs) | [Images](#Images) | [Sources](#Sources)
 
 ## Habitat
+
+* Temp: 45-85 F
+* Sqft/hen: 2-3 (inside coop) /  8-10 (outside run)
 
 A chicken **coop** is a shelter. It isn’t used so much to keep the birds in as it is to keep predators out, and to protect the birds from the elements. A chicken coop should have a roost, sufficient ventilation, and nesting boxes.
 
@@ -26,13 +27,11 @@ Keep watering sources elevated above dirt to prevent chickens from digging dirt 
 
 Chickens like to share a **nesting box**. One box can be used by a small flock. They are typically only used to lay eggs in; typically hens lay their eggs in the same place. Nesting boxes should contain nesting material such as wood shavings.
 
-Chickens space requirements:
-* 2-3 sqft (inside chicken coop)
-* 8-10 sqft (outside run)
-
 Check city ordinances on chicken keeping. Familiarize yourself with local vendors that service the agricultural community.
 
-## Behavior and hygiene
+[National Poultry Improvement Plan (NPIP)](http://www.poultryimprovement.org/default.cfm)
+
+## Behavior
 
 Chickens will eat weed and grass clippings. Easy eaters; do not feed them chicken, they will eat. You can also purchase organic chicken feed. A full grown chicken might require 1 - 1.5 cups of feed per day.
 
@@ -40,11 +39,7 @@ Chickens love eating worms / caterpillars, and other bugs.
 
 Can drink from water nipples.
 
-Dust baths helps to prevent lice / mites / ticks (chicken pests do not transmit to humans).
-
 Chickens can put themselves away at night (**free range**).
-
-Chickens **molt** – lose feathers during seasonal change.
 
 Pecking orders are natural group behavior, but excessive pecking may be indicative of overcrowding or poor living conditions.
 
@@ -54,35 +49,51 @@ Chickens can cohabitate with rabbits or ducks. Note that chicken and duck habita
 
 Chickens can overheat easily (they are birds). They require access to fresh water.
 
-Attract mice and rats, which chickens will eat, but shouldn’t; you need a rodent predator or control mechanism.
+## Hygiene
 
-Chickens can develop eye problems from pests (diatomaceous earth can aide).
+Chickens **molt** – lose feathers during seasonal change. Feathers are made of keratin, which is a protein.
+
+Attract mice and rats, which chickens will eat, but shouldn’t; you need a rodent predator or control mechanism.
 
 Chickens produce (a lot) of (non-pungent) biowaste that must be cleaned out. It is compostable.
 
+Chickens can develop eye problems from pests (diatomaceous earth can aide).
+
+Dust baths helps to prevent lice / mites / ticks (chicken pests do not transmit to humans).
+
+**Sour crop** – a yeast infection of the crop (an internal organ, a pouch at the base of neck that holds food, water, and grit; not the waddle, which is the flaps of skin below the beak). Characterized by a large, swollen crop that feel like a water balloon, and a sour smell emanating from the bird’s mouth.
+
+### Potentially fatal conditions
+
+The conditions require attention and must be treated promptly.
+
+* Bumblefoot - a type of staph infection in the foot pad.
+* Pasty butt - when poop sticks to down (chicks) and blocks ventral functioning.
+
 ## Eggs
 
-Begin laying eggs from about 6 months old.
+Types of egg laying breeds:
 
-Lay about 1-2 egg a day for their first year, then less and less each year after.
+- Production Reds
+- Australorps
+- Leghorns
+- Buff Orpingtons
+- Easter Eggers
+- Rhode Island Red
 
-Blood in a chicken egg is likely a ruptured uterine blood vessel.
+Begin laying eggs from about 6 months old (16-24 weeks).
+
+Lay about 1 egg a day  (5/week) for year 1-2, then less and less each year after. Younger hens or overfed hens may lay 2 eggs a day.
+
+Hens lay less or not at all during winter. Reduced sunlight decrease hormone and egg production levels. Feed should contain 15-18% protein.
+
+Blood in a chicken egg is likely a ruptured blood vessel in the oviduct. Eggs are laid from that **cloaca**, the also opening for reproduction and waste elimination.
 
 If you treat illnesses with antibiotics, do not eat eggs for a few weeks.
 
 Chickens lay eggs without a rooster. A rooster will fertilize eggs.
 
 The older the egg, the easier it is to peel. Do not hard boil an egg that is less than a week old.
-
-## Sources
-
-Hobby Farm Nutt. Raising chickens 101, getting started & what they don’t tell you. https://www.youtube.com/watch?v=1rDArRNSDBE. Aug 2, 2017.
-
-Stoney Ridge Farmer. Raising Chickens 101 Best advice and education you’ll find anywhere on the web. https://www.youtube.com/watch?v=MeDatQTO-V4. May 10, 2020.
-
-Gennetta, Nicole. How Many Eggs Does A Chicken Lay A Day. https://www.heritageacresmarket.com/how-many-eggs-does-a-chicken-lay-a-day/.  Jan 23, 2020. 
-
-City Prepping. How to raise chickens in your backyard (10 tips). https://www.youtube.com/watch?v=8G8cH740_TQ. Oct 14, 2017.
 
 ## Images
 
@@ -108,15 +119,35 @@ Chickens roosting on suspended rods.
 ![](brooder-pen.png)  
 A chick brooder with a suspended heat lamp. Note the specialized feeder at the bottom and the marble/gravel in the water source (holding).
 
+![](egg-cycle.png)  
+> *"Physiologically speaking, it takes time to lay an egg. Eggs start in the ovary, much like humans. During ovulation, a yolk is released into the oviduct. The yolk moves through the oviduct, where it is fertilized (if a rooster is present) and the egg white (or albumen) is deposited. As the egg moves into the uterus, the yolk is encapsulated in the shell, the shell is colored, and the bloom adhered. The egg then continues through the uterus to be laid. This entire process takes 24-26 hours."*  
+(Gennetta 2020)
+
+![](egg-timeline.png)
+
+![](crop.png)  
+Not the waddle under the beak.
+
 ---
 ---
 ---
+
+## Sources
+
+* Casey, Marya. 13 Beneficial Chicken-Friendly Plants To Grow Next To Coops. https://insteading.com/blog/chicken-friendly-plants/. Jan 15 2021.
+* City Prepping. How to raise chickens in your backyard (10 tips). https://www.youtube.com/watch?v=8G8cH740_TQ. Oct 14, 2017.
+* Gennetta, Nicole.
+  * Common Chicken Terms. https://www.heritageacresmarket.com/common-poultry-terms/.  Dec 26, 2017.
+  * How Many Eggs Does A Chicken Lay A Day. https://www.heritageacresmarket.com/how-many-eggs-does-a-chicken-lay-a-day/.  Jan 23, 2020.
+* Hobby Farm Nutt. Raising chickens 101, getting started & what they don’t tell you. https://www.youtube.com/watch?v=1rDArRNSDBE. Aug 2, 2017.
+* Mormino, Kathy Shea. Chiecken Anatomy: The Crop, Impacted Crop and Sour Crop. https://the-chicken-chick.com/chicken-anatomy-crop-impacted-crop-sour/. Est 2019.
+* Stoney Ridge Farmer. Raising Chickens 101 Best advice and education you’ll find anywhere on the web. https://www.youtube.com/watch?v=MeDatQTO-V4. May 10, 2020.
 
 ## Working notes
 
 ---
 
-Stoney ridge farmer 
+Stoney ridge farmer
 
 Hatchery
 
@@ -124,21 +155,15 @@ Mobile coops
 
 Pens
 
-Brooder – a safe warm place (85-100 F). Food waste is a problem with baby chicks. 
+Brooder – a safe warm place (85-100 F). Food waste is a problem with baby chicks.
 
 Specialized feeders prevent chicks from scraping at food with claws or pooping in feed. Marbles or other forms of displacement can be used to prevent chicks from entering water sources and drowning.
 
 Laying hen house
 
-
-Meat bird
+Meat bird (a **broiler** is a chicken raised specifically for meat production)
 
 Patriculture
 
 Cornish cross bird / Rainbow ranger
-
-Hens can eat weeds out of a garden.
-
-
-
----
+Hens can eat weeds out of a garden
