@@ -126,7 +126,7 @@ A chick brooder with a suspended heat lamp. Note the specialized feeder at the b
 ![](egg-timeline.png)
 
 ![](crop.png)  
-Not the waddle under the beak.
+Note the waddle under the beak.
 
 ---
 ---
