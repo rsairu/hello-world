@@ -128,6 +128,9 @@ A chick brooder with a suspended heat lamp. Note the specialized feeder at the b
 ![](crop.png)  
 Note the waddle under the beak.
 
+![](chicken-vidya.png)
+A chicken playing vidya with a hooman.
+
 ---
 ---
 ---
