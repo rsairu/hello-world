@@ -31,8 +31,6 @@ They require access to fresh water. Keep watering sources elevated above dirt to
 
 Check city ordinances on chicken keeping. Familiarize yourself with local vendors that service the agricultural community.
 
-[National Poultry Improvement Plan (NPIP)](http://www.poultryimprovement.org/default.cfm)
-
 ## Behavior
 
 Chicken: Animalia chordata aves. Galliformes, domesticated.
@@ -69,6 +67,8 @@ The following conditions are potentially fatal and require attention and prompt 
 
 * Bumblefoot - a type of staph infection in the foot pad.
 * Pasty butt - when poop sticks to down (chicks) and blocks ventral functioning.
+
+According to the [NPIP Standard C - Sanitation Procedures](http://www.poultryimprovement.org/documents/ProgramStandardsA-E.pdf), tools and clothing should stay on the premises, hands should be washed and sanitized after handling, and footwear should be cleaned before entering vehicles.
 
 ## Eggs
 
@@ -145,6 +145,7 @@ A chicken playing vidya with a hooman.
   * How Many Eggs Does A Chicken Lay A Day. https://www.heritageacresmarket.com/how-many-eggs-does-a-chicken-lay-a-day/.  Jan 23, 2020.
 * Hobby Farm Nutt. Raising chickens 101, getting started & what they don’t tell you. https://www.youtube.com/watch?v=1rDArRNSDBE. Aug 2, 2017.
 * Mormino, Kathy Shea. Chiecken Anatomy: The Crop, Impacted Crop and Sour Crop. https://the-chicken-chick.com/chicken-anatomy-crop-impacted-crop-sour/. Est 2019.
+* [National Poultry Improvement Plan (NPIP)](http://www.poultryimprovement.org/default.cfm)
 * Stoney Ridge Farmer. Raising Chickens 101 Best advice and education you’ll find anywhere on the web. https://www.youtube.com/watch?v=MeDatQTO-V4. May 10, 2020.
 
 ## Working notes
