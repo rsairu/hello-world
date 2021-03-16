@@ -1,4 +1,4 @@
-# The Chicken Manual
+# The Chicken Manual for Chickenology
 
 *v2*  
 
@@ -10,22 +10,24 @@ Easy – they pretty much take care of themselves. Your job as a bird keeper is 
 
 ## Habitat
 
-* Temp: 45-85 F
+* Temp: 45-85 F (90 F chick brooding temperature) 
 * Sqft/hen: 2-3 (inside coop) /  8-10 (outside run)
 
 A chicken **coop** is a shelter. It isn’t used so much to keep the birds in as it is to keep predators out, and to protect the birds from the elements. A chicken coop should have a roost, sufficient ventilation, and nesting boxes.
 
-A **chicken run** is the fenced in area around the coop. Chickens run around in a chicken run. Wire should cover from above (raptor attacks or climbing predators) and well below (burrowing predators). Example predators: hawks, cats, dogs, raccoons, possums, coyotes, skunks.
+A **chicken run** is the fenced in area around the coop. Chickens run around in a chicken run. Wire should cover from above (aerial attacks or climbing predators) and well below (burrowing predators). Example predators: hawks, cats, dogs, raccoons, possums, coyotes, skunks, snakes.
 
 The chicken run should have dirt and hay, things for chickens to dig or scratch at. Dust should be available for dust baths.
 
-Low, covered spaces are great for shade for hot days or rainy days. They may lay eggs there.
+Chickens like to share a **nesting box**. One box can be used by a small flock. They are typically only used to lay eggs in; typically hens lay their eggs in the same place. Nesting boxes should contain nesting material such as wood shavings.
 
 Use vertical spaces, especially within the coop, to maximize habitat space efficiency. Chickens sleep high up. To prevent a chicken from roosting on a surface and pooping below, the surface should roll or otherwise be unstable.
 
-Keep watering sources elevated above dirt to prevent chickens from digging dirt into them.
+Low, covered spaces are great for shade for hot days or rainy days. They may lay eggs there. Chickens can overheat easily (they are birds).
 
-Chickens like to share a **nesting box**. One box can be used by a small flock. They are typically only used to lay eggs in; typically hens lay their eggs in the same place. Nesting boxes should contain nesting material such as wood shavings.
+Internal avg 103.5 F (chick) - 106 (mature hen). Internal above 117 F or below 73 is fatal.
+
+They require access to fresh water. Keep watering sources elevated above dirt to prevent chickens from digging dirt into them.
 
 Check city ordinances on chicken keeping. Familiarize yourself with local vendors that service the agricultural community.
 
@@ -33,7 +35,9 @@ Check city ordinances on chicken keeping. Familiarize yourself with local vendor
 
 ## Behavior
 
-Chickens will eat weed and grass clippings. Easy eaters; do not feed them chicken, they will eat. You can also purchase organic chicken feed. A full grown chicken might require 1 - 1.5 cups of feed per day.
+Chicken: Animalia chordata aves. Galliformes, domesticated.
+
+Chickens will eat weed and grass clippings. Easy eaters; do not feed them chicken, they will eat. You can also purchase organic chicken feed. A full grown chicken might require 1 - 1.5 cups of feed per day. After eating food, it is stored with water and grit in the crop, a predigestive organ at the base of the esophagus.
 
 Chickens love eating worms / caterpillars, and other bugs.
 
@@ -47,11 +51,9 @@ Chickens sleep standing up (**roosting**).
 
 Chickens can cohabitate with rabbits or ducks. Note that chicken and duck habitats are somewhat distinct.
 
-Chickens can overheat easily (they are birds). They require access to fresh water.
-
 ## Hygiene
 
-Chickens **molt** – lose feathers during seasonal change. Feathers are made of keratin, which is a protein.
+Chickens **molt** – lose feathers during seasonal change. Feathers are made of keratin, which is a protein. No sweat glands.
 
 Attract mice and rats, which chickens will eat, but shouldn’t; you need a rodent predator or control mechanism.
 
@@ -137,8 +139,9 @@ A chicken playing vidya with a hooman.
 
 ## Sources
 
-* Casey, Marya. 13 Beneficial Chicken-Friendly Plants To Grow Next To Coops. https://insteading.com/blog/chicken-friendly-plants/. Jan 15 2021.
+* Casey, Marya. 13 Beneficial Chicken-Friendly Plants To Grow Next To Coops. https://insteading.com/blog/chicken-friendly-plants/. Jan 15, 2021.
 * City Prepping. How to raise chickens in your backyard (10 tips). https://www.youtube.com/watch?v=8G8cH740_TQ. Oct 14, 2017.
+* Damerow, Gail. Chickens and Body Temperature: What You Need to Know. https://confluence.expedia.biz/display/EGST/Security+Policy+Excerpts. Apr 26, 2019.
 * Gennetta, Nicole.
   * Common Chicken Terms. https://www.heritageacresmarket.com/common-poultry-terms/.  Dec 26, 2017.
   * How Many Eggs Does A Chicken Lay A Day. https://www.heritageacresmarket.com/how-many-eggs-does-a-chicken-lay-a-day/.  Jan 23, 2020.
