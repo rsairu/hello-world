@@ -65,9 +65,7 @@ Dust baths helps to prevent lice / mites / ticks (chicken pests do not transmit 
 
 **Sour crop** – a yeast infection of the crop (an internal organ, a pouch at the base of neck that holds food, water, and grit; not the waddle, which is the flaps of skin below the beak). Characterized by a large, swollen crop that feel like a water balloon, and a sour smell emanating from the bird’s mouth.
 
-### Potentially fatal conditions
-
-The conditions require attention and must be treated promptly.
+The following conditions are potentially fatal and require attention and prompt treatment:
 
 * Bumblefoot - a type of staph infection in the foot pad.
 * Pasty butt - when poop sticks to down (chicks) and blocks ventral functioning.
