@@ -1,6 +1,6 @@
-# The Chicken Manual for Chickenology
+# The Chicken Manual
 
-*v2*  
+*v3*  
 
 ![](chicken-insteading.gif)
 
