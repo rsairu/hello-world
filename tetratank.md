@@ -10,7 +10,7 @@
 | --- | --- | --- |
 |x 9 | Glow light tetra [Hemigrammus erythrozonus](https://en.wikipedia.org/wiki/Hemigrammus_erythrozonus) | ![Glowie](./aquarium/glowie.png) |
 |x 11 | Neon tetra [Paracheirodon innesi](https://en.wikipedia.org/wiki/Neon_tetra) | ![Neon](./aquarium/neon.png) |
-|x 2 | Dwarf sucker [Otocinclus](https://en.wikipedia.org/wiki/Otocinclus) | ![Oto](./aquarium/otocinclus.png) |
+|x 6 | Dwarf sucker [Otocinclus](https://en.wikipedia.org/wiki/Otocinclus) | ![Oto](./aquarium/otocinclus.png) |
 |x 2 | Apple / Mystery snails [Ampullariidae](https://en.wikipedia.org/wiki/Ampullariidae) | ![Gold snail](./aquarium/marimo.png) <br> ![Black snail](./aquarium/blackSnail.png)|
 
 ## Diet
