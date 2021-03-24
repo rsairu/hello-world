@@ -1,8 +1,10 @@
 # Tetra Tank
 
+20 gallon community tetra tank in [iwagumi](https://duckduckgo.com/?q=iwagumi&iax=images&ia=images) style.  
+
 ![](./aquarium/tetra_tank.png)
 
-20 gallon community tetra tank in [iwagumi](https://duckduckgo.com/?q=iwagumi&iax=images&ia=images) style.  
+![](./aquarium/tetra_tank2.png)  
 
 ## Fishy
 
@@ -53,5 +55,6 @@ Algae wafer, blanched zucchini, shrimp food (omnivore pellet)
 * [Orlushy heater](https://github.com/rsairu/howto/blob/main/orlushy_heater.md)
 
 *RIP first wave of Thanksgiving Fish (x9(?) neon tetra). We love you*  
-*We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time.* -T. S. Eliot
-*If I have seen further than others, it is by standing upon the shoulders of giants.* - Isaac Newton (but carried on in spirit by D. J. Trump)
+*We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time.* -T. S. Eliot  
+*If I have seen further than others, it is by standing upon the shoulders of giants.* - Isaac Newton  
+*Treat the word impossible as nothing more than motivation* - Donald Trump
