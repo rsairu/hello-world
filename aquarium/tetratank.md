@@ -2,25 +2,25 @@
 
 20 gallon community tetra tank in [iwagumi](https://duckduckgo.com/?q=iwagumi&iax=images&ia=images) style.  
 
-![](./aquarium/tetra_tank.png)  
+![](tetra_tank.png)  
 *2 weeks after set up*
 
-![](./aquarium/tetra_tank2.png)  
+![](tetra_tank2.png)  
 *2 months after set up*
 
 ## Fishy
 
 ||||
 | --- | --- | --- |
-|x 9 | Glow light tetra [Hemigrammus erythrozonus](https://en.wikipedia.org/wiki/Hemigrammus_erythrozonus) | ![Glowie](./aquarium/glowie.png) |
-|x 11 | Neon tetra [Paracheirodon innesi](https://en.wikipedia.org/wiki/Neon_tetra) | ![Neon](./aquarium/neon.png) |
-|x 6 | Dwarf sucker [Otocinclus](https://en.wikipedia.org/wiki/Otocinclus) | ![Oto](./aquarium/otocinclus.png) |
-|x 2 | Apple / Mystery snails [Ampullariidae](https://en.wikipedia.org/wiki/Ampullariidae) | ![Gold snail](./aquarium/marimo.png) <br> ![Black snail](./aquarium/blackSnail.png)|
+|x 9 | Glow light tetra [Hemigrammus erythrozonus](https://en.wikipedia.org/wiki/Hemigrammus_erythrozonus) | ![Glowie](glowie.png) |
+|x 11 | Neon tetra [Paracheirodon innesi](https://en.wikipedia.org/wiki/Neon_tetra) | ![Neon](neon.png) |
+|x 6 | Dwarf sucker [Otocinclus](https://en.wikipedia.org/wiki/Otocinclus) | ![Oto](otocinclus.png) |
+|x 2 | Apple / Mystery snails [Ampullariidae](https://en.wikipedia.org/wiki/Ampullariidae) | ![Gold snail](marimo.png) <br> ![Black snail](blackSnail.png)|
 
 ## Diet
 
 **Breakfast**  
-*Only when young. Stopped after about 1 month:*  
+*Only when young. Stopped after fish were about 2 months older*  
 7-10 AM PST, 2-3 days a week  
 Flakes
  
@@ -38,7 +38,7 @@ Blanched zucchini
 ## Habitat
 
 **Photonic** (TBD)
-![](./aquarium/photonic.png)
+![](photonic.png)
 
 * Bare bottom water column at tech end (wave maker / heater / filter intake). Makes refilling super easy
 * No artificial / supplemental filtration beyond mechanical
@@ -48,11 +48,11 @@ Blanched zucchini
 
 |||
 | --- | --- |
-| Cyperus helferi (grass-like sedge) | ![cyperus](./aquarium/cyperus.png) |
-| Hydrocotyle tripartita ('Japan' carpet) | ![carpet](./aquarium/tripartita.png) |
-| Bacopa monnieri (water hyssop) | ![bacopa](./aquarium/bacopa.png) |
-| Blyxa japonica (Japanese rush) | ![blyxa j](./aquarium/blyxa.png) |
-| [Marimo](https://en.wikipedia.org/wiki/Marimo) moss balls | ![Marimo](./aquarium/marimo.png) |
+| Cyperus helferi (grass-like sedge) | ![cyperus](cyperus.png) |
+| Hydrocotyle tripartita ('Japan' carpet) | ![carpet](tripartita.png) |
+| Bacopa monnieri (water hyssop) | ![bacopa](bacopa.png) |
+| Blyxa japonica (Japanese rush) | ![blyxa j](blyxa.png) |
+| [Marimo](https://en.wikipedia.org/wiki/Marimo) moss balls | ![Marimo](marimo.png) |
 | Seiryu | ![seiryu](hadouken.png) |
 
 [List of freshwater aquarium plant species](https://en.wikipedia.org/wiki/List_of_freshwater_aquarium_plant_species)
