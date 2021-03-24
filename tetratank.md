@@ -2,9 +2,11 @@
 
 20 gallon community tetra tank in [iwagumi](https://duckduckgo.com/?q=iwagumi&iax=images&ia=images) style.  
 
-![](./aquarium/tetra_tank.png)
+![](./aquarium/tetra_tank.png)  
+*2 weeks after set up*
 
 ![](./aquarium/tetra_tank2.png)  
+*2 months after set up*
 
 ## Fishy
 
