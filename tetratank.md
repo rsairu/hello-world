@@ -20,16 +20,19 @@
 ## Diet
 
 **Breakfast**  
-7-10 AM PST, 2-3 days a week
+*Only when young. Stopped after about 1 month:*  
+7-10 AM PST, 2-3 days a week  
 Flakes
  
 **Dinner**  
-7-10 PM after breakfast, daily (occasional fast)
-Flakes + bloodworm (freeze dried)
+7-10 PM after breakfast, daily (occasional fast)  
+Flakes + bloodworm (freeze dried)  
+Crushed alga wafer for herbivores
 
 **Snacks**  
-1/day, 3-4 days a qeek
-Algae wafer, blanched zucchini, shrimp food (omnivore pellet)
+Infrequently  
+Crushed shrimp food (omnivore pellet) for mineralization  
+Blanched zucchini
 
 
 ## Habitat
@@ -37,9 +40,10 @@ Algae wafer, blanched zucchini, shrimp food (omnivore pellet)
 **Photonic** (TBD)
 ![](./aquarium/photonic.png)
 
-* Bare bottom water column at wave maker (tech end).
-* 1 inch white sand substrate over soil, with heavier planting in the back for fish comfort (garden end).
-* Tap pH (6-8)  
+* Bare bottom water column at tech end (wave maker / heater / filter intake). Makes refilling super easy
+* No artificial / supplemental filtration beyond mechanical
+* Tap pH (6-8). Water conditioned with cholorine removal only
+* 1 inch white sand substrate over washed soil. Some rocks in back to create subterranean space in 3 inches of soil. Heavier planting in the back for fish comfort (garden/forest end). Natural algae not removed from here
 * 76°F / 24.4°C
 
 |||
