@@ -34,6 +34,9 @@ Algae wafer, blanched zucchini, shrimp food (omnivore pellet)
 
 ## Habitat
 
+**Photonic** (TBD)
+![](./aquarium/photonic.png)
+
 * Bare bottom water column at wave maker (tech end).
 * 1 inch white sand substrate over soil, with heavier planting in the back for fish comfort (garden end).
 * Tap pH (6-8)  
