@@ -66,4 +66,4 @@ Blanched zucchini
 *RIP first wave of Thanksgiving Fish (x9(?) neon tetra). We love you*  
 *We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time.* -T. S. Eliot  
 *If I have seen further than others, it is by standing upon the shoulders of giants.* - Isaac Newton  
-*Treat the word impossible as nothing more than motivation* - Donald Trump
+*Treat the word impossible as nothing more than motivation*
