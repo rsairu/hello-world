@@ -48,12 +48,12 @@ Blanched zucchini
 
 |||
 | --- | --- |
-| Cyperus helferi (grass-like sedge) | ![cyperus](cyperus.png) |
-| Hydrocotyle tripartita ('Japan' carpet) | ![carpet](tripartita.png) |
-| Bacopa monnieri (water hyssop) | ![bacopa](bacopa.png) |
-| Blyxa japonica (Japanese rush) | ![blyxa j](blyxa.png) |
-| [Marimo](https://en.wikipedia.org/wiki/Marimo) moss balls | ![Marimo](marimo.png) |
-| Seiryu | ![seiryu](hadouken.png) |
+| Cyperus helferi (grass-like sedge) | ![](cyperus.png) |
+| Hydrocotyle tripartita ('Japan' carpet) | ![](tripartita.png) |
+| Bacopa monnieri (water hyssop) | ![](bacopa.png) |
+| Blyxa japonica (Japanese rush) | ![](blyxa.png) |
+| [Marimo](https://en.wikipedia.org/wiki/Marimo) moss balls (Aegagropila linnaei)| ![](marimo.png) |
+| Seiryu | ![](hadouken.png) |
 
 [List of freshwater aquarium plant species](https://en.wikipedia.org/wiki/List_of_freshwater_aquarium_plant_species)
 
