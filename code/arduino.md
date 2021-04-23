@@ -10,3 +10,7 @@ see also store.arduino.cc/uno-r3
 |Dimensions|68.6 x 53.4 mm
 
 [Resistor color code calculator](https://resistorcolorcodecalc.com/)
+
+(Georg Simon) Ohm's Law: V = I R
+
+
