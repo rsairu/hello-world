@@ -22,21 +22,21 @@ see also store.arduino.cc/uno-r3
 
 Statements end with `;` semicolon
 
-void setup() {} // runs once when you press reset or power the board  
-void loop() {} // runs over and over again forever  
+`void setup() {}` // runs once when you press reset or power the board  
+`void loop() {}` // runs over and over again forever  
 
 
-pinMode(int pin, `INPUT` / `OUTPUT`)
+`pinMode(int pin, `INPUT` / `OUTPUT`);`
 
-analogWrite(int _pin_, long _value_) // sends a voltage between 0 and 2^10 (1024) (?)  
-digitalWrite(int _pin_, `HIGH`/`LOW`) // sends a binary value of 1 or 0  
-digitalRead(int _pin_)  
+`analogWrite(int _pin_, long _value_);` // sends a voltage between 0 and 2^10 (1024) (?)  
+`digitalWrite(int _pin_, `HIGH`/`LOW`);` // sends a binary value of 1 or 0  
+`digitalRead(int _pin_)`; //  returns a value of `HIGH` or `LOW` 
 
-delay(int _milliseconds_)
+`delay(int _milliseconds_)` // stops all other functionality, eg sensor reads, until time has passed
 
-Serial.begin(9600); // open a serial port  
-Serial.print(string(?) _string_) // prints without returning carriage  
-Serial.println(string _string_) // prints and goes to new line (returns carriage)
+`Serial.begin(9600);` // open a serial port  
+`Serial.print(string(?) _string_);` // prints without returning carriage  
+`Serial.println(string _string_);` // prints and goes to new line (returns carriage)
 
 ### Special names
 
