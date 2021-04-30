@@ -1,6 +1,6 @@
 # Tetra Tank
 
-20 gallon community tetra tank in [iwagumi](https://duckduckgo.com/?q=iwagumi&iax=images&ia=images) style.  
+20 gallon community tetra tank in [iwagumi](https://duckduckgo.com/?q=iwagumi&iax=images&ia=images) style and '[Walstad](https://duckduckgo.com/?q=walstad+method&ia=web)' method.  
 
 ![](tank.gif)  
 
