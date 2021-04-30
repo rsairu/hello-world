@@ -11,11 +11,13 @@ see also store.arduino.cc/uno-r3
 |Pinout|20 (*digital*)<br/>6 (*PWM*)<br/>6 (*analog*)
 |Dimensions|68.6 x 53.4 mm
 
-## Circuitry
+## Electronics
 
 [Resistor color code calculator](https://resistorcolorcodecalc.com/)
 
-(Georg Simon) Ohm's Law: V = I R
+(Georg Simon) Ohm's Law: Voltage (V; volts) is equal to the product of the Current (I; amperes) and the Resistence (Ω (Greek Omega char); ohms) of a circuit.
+
+V = I * R
 
 
 ## Language (Sketch(?))
