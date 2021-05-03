@@ -52,14 +52,17 @@ Blanched zucchini
 
 ## Habitat 
 
-**Photonic** (TBD)
+**Photonic scehdule**  
 ![](photonic.png)  
-*(Fluval AqauSky LED app)*
+*(Fluval AqauSky LED app) As you can see from the schedule, the fish and plants have a clear diurnal schedule*
 
-* 76°F / 24.4°C
-* Bare bottom water column at tech end (wave maker / heater / filter intake). Makes refilling super easy, also serves as feeding area.
-* No artificial / supplemental filtration beyond coarse and fine mechanical
+**Tidal schedule**  
+*TBD*
+
+* Temp: 76°F / 24.4°C
 * Tap pH (6-8). Water conditioned with cholorine removal only
+* No artificial / supplemental filtration beyond coarse and fine mechanical
+* Bare bottom water column at tech end (wave maker / heater / filter intake). Makes refilling super easy, also serves as feeding area.
 * 1 inch white sand substrate over washed soil. Some rocks in back to create subterranean space in 3 inches of soil. Heavier planting in the back for fish comfort (garden/forest end). Natural algae not removed from here for algaevores / undisturbed habitat.
 
 ## Tech
