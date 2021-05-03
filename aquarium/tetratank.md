@@ -17,7 +17,7 @@
 | --- | --- | --- |
 |x 9 | Glow light tetra [Hemigrammus erythrozonus](https://en.wikipedia.org/wiki/Hemigrammus_erythrozonus) | ![](glowie.png) |
 |x 11| Neon tetra [Paracheirodon innesi](https://en.wikipedia.org/wiki/Neon_tetra) | ![](neon.png) |
-|x3  | Black neon tetra | *I need my photo taken :)* |
+|x3 (unplanned refugees) | Black neon tetra [Hyphessobrycon herbertaxelrodi](https://en.wikipedia.org/wiki/Black_neon_tetra) | *I need my photo taken :)* |
 |x 6 | Dwarf sucker [Otocinclus](https://en.wikipedia.org/wiki/Otocinclus) | ![](oto.gif) <br> *A dorsal view of an Oto swaying in the current* |
 |x 2 | Apple snails [Ampullariidae](https://en.wikipedia.org/wiki/Ampullariidae) | ![Gold snail](marimo.png) (*female*) <br> ![](blackSnail.png)(*male*)|
 
