@@ -3,32 +3,31 @@
 20 gallon community tetra tank in [iwagumi](https://duckduckgo.com/?q=iwagumi&iax=images&ia=images) style and '[Walstad](https://duckduckgo.com/?q=walstad+method&ia=web)' method.  
 
 ![](tank.gif)  
-
-![](tetra_tank.png)  
-*2 weeks after set up*
+*4 months after set up*
 
 ![](tetra_tank2.png)  
 *2 months after set up*
+
+![](tetra_tank.png)  
+*2 weeks after set up*
 
 ## Fishy
 
 ||||
 | --- | --- | --- |
-|x 9 | Glow light tetra [Hemigrammus erythrozonus](https://en.wikipedia.org/wiki/Hemigrammus_erythrozonus) | ![Glowie](glowie.png) |
-|x 11 | Neon tetra [Paracheirodon innesi](https://en.wikipedia.org/wiki/Neon_tetra) | ![Neon](neon.png) |
-|x 6 | Dwarf sucker [Otocinclus](https://en.wikipedia.org/wiki/Otocinclus) | ![Oto](oto.gif) <br> *A dorsal view of an Oto swaying in the current* |
-|x 2 | Apple / Mystery snails [Ampullariidae](https://en.wikipedia.org/wiki/Ampullariidae) | ![Gold snail](marimo.png) <br> ![Black snail](blackSnail.png)|
+|x 9 | Glow light tetra [Hemigrammus erythrozonus](https://en.wikipedia.org/wiki/Hemigrammus_erythrozonus) | ![](glowie.png) |
+|x 11| Neon tetra [Paracheirodon innesi](https://en.wikipedia.org/wiki/Neon_tetra) | ![](neon.png) |
+|x3  | Black neon tetra | *I need my photo taken :)* |
+|x 6 | Dwarf sucker [Otocinclus](https://en.wikipedia.org/wiki/Otocinclus) | ![](oto.gif) <br> *A dorsal view of an Oto swaying in the current* |
+|x 2 | Apple snails [Ampullariidae](https://en.wikipedia.org/wiki/Ampullariidae) | ![Gold snail](marimo.png) (*female*) <br> ![](blackSnail.png)(*male*)|
 
 ## Diet
 
-**Breakfast**  
-*Only when young. Stopped after fish were about 2 months older*  
-7-10 AM PST, 2-3 days a week  
-Flakes
+*Breakfast only when young. Stopped after fish were about 2 months after got from pet store*  
+7-10 AM PST; Flakes
  
 **Dinner**  
-7-10 PM after breakfast, daily (occasional fast)  
-Flakes + bloodworm (freeze dried)  
+6-9 PM PST, 5-6 days/week; Flakes + bloodworm (freeze dried)  
 Crushed alga wafer for herbivores
 
 **Snacks**  
@@ -36,17 +35,9 @@ Infrequently
 Crushed shrimp food (omnivore pellet) for mineralization  
 Blanched zucchini
 
+## Plants
 
-## Habitat
-
-**Photonic** (TBD)
-![](photonic.png)
-
-* Bare bottom water column at tech end (wave maker / heater / filter intake). Makes refilling super easy
-* No artificial / supplemental filtration beyond mechanical
-* Tap pH (6-8). Water conditioned with cholorine removal only
-* 1 inch white sand substrate over washed soil. Some rocks in back to create subterranean space in 3 inches of soil. Heavier planting in the back for fish comfort (garden/forest end). Natural algae not removed from here
-* 76°F / 24.4°C
+*(Need to retake photos)*
 
 |||
 | --- | --- |
@@ -58,6 +49,18 @@ Blanched zucchini
 | Seiryu | ![](hadouken.png) |
 
 [List of freshwater aquarium plant species](https://en.wikipedia.org/wiki/List_of_freshwater_aquarium_plant_species)
+
+## Habitat 
+
+**Photonic** (TBD)
+![](photonic.png)  
+*(Fluval AqauSky LED app)*
+
+* 76°F / 24.4°C
+* Bare bottom water column at tech end (wave maker / heater / filter intake). Makes refilling super easy, also serves as feeding area.
+* No artificial / supplemental filtration beyond coarse and fine mechanical
+* Tap pH (6-8). Water conditioned with cholorine removal only
+* 1 inch white sand substrate over washed soil. Some rocks in back to create subterranean space in 3 inches of soil. Heavier planting in the back for fish comfort (garden/forest end). Natural algae not removed from here for algaevores / undisturbed habitat.
 
 ## Tech
 * [Hygger Eco slim wave maker](https://github.com/rsairu/howto/blob/main/hygger_eco_slim.md)
