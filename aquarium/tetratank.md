@@ -52,7 +52,7 @@ Blanched zucchini
 
 ## Habitat 
 
-**Photonic scehdule**  
+**Photonic schedule**  
 ![](photonic.png)  
 *(Fluval AqauSky LED app) As you can see from the schedule, the fish and plants have a clear diurnal schedule*
 
@@ -66,10 +66,18 @@ Blanched zucchini
 * 1 inch white sand substrate over washed soil. Some rocks in back to create subterranean space in 3 inches of soil. Heavier planting in the back for fish comfort (garden/forest end). Natural algae not removed from here for algaevores / undisturbed habitat.
 
 ## Tech
-* [Hygger Eco slim wave maker](https://github.com/rsairu/howto/blob/main/hygger_eco_slim.md)
-* [Fluval Aquaclear filter](https://github.com/rsairu/howto/blob/main/fluval_aquaclear_powerfilter.md)
-* Fluval Aquasky LED
-* [Orlushy heater](https://github.com/rsairu/howto/blob/main/orlushy_heater.md)
+| ITEM | COST |
+| [Hygger Eco slim wave maker](https://github.com/rsairu/howto/blob/main/hygger_eco_slim.md) | $ XXX.XX |
+| [Fluval Aquaclear filter](https://github.com/rsairu/howto/blob/main/fluval_aquaclear_powerfilter.md) | ¥ XXXXX.XX |
+| Fluval Aquasky LED |  ₽ XXXXX.XX |
+| [Orlushy heater](https://github.com/rsairu/howto/blob/main/orlushy_heater.md) | here, too |
+
+## Maintenance Costs
+| | |
+| Electricity per month | one billion dollars |
+| Feed per month | ten cents |
+| Nerves | one trillion |
+
 
 *RIP first wave of Thanksgiving Fish (x9(?) neon tetra). We love you*  
 *We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time.* -T. S. Eliot  
