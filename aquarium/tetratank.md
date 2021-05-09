@@ -55,12 +55,16 @@ Infrequent
 
 ## Habitat 
 
-**Photonic schehdule**  
+### Photonic schehdule
+
 ![](photonic.png)  
 *(Fluval AqauSky LED app) As you can see from the schedule, the fish and plants have a clear diurnal schedule*
 
-**Tidal schedule**  
+### Tidal schedule
+
 *TBD*
+
+### Water and substrate
 
 * Temp: 76°F / 24.4°C
 * Tap pH (6-8). Water conditioned with cholorine removal only
@@ -69,15 +73,17 @@ Infrequent
 * 1 inch white sand substrate over washed soil. Some rocks in back to create subterranean space in 3 inches of soil. Heavier planting in the back for fish comfort (garden/forest end). Natural algae not removed from here for algaevores / undisturbed habitat.
 
 ## Tech
+
 * [Hygger Eco slim wave maker](https://github.com/rsairu/howto/blob/main/hygger_eco_slim.md)
 * [Fluval Aquaclear filter](https://github.com/rsairu/howto/blob/main/fluval_aquaclear_powerfilter.md)
 * Fluval Aquasky LED
 * [Orlushy heater](https://github.com/rsairu/howto/blob/main/orlushy_heater.md)
 
 ## Upkeep
-Approximately one-two times a month, 33% water change (once/2 weeks) (1 hr)
-Approximately one-to-two times a month, clean filter, replace media as necessary (30 min)
-Approximately once every other month, clean impeller (30 min)
+
+Approximately one-two times a month, 33% water change (once/2 weeks) (1 hr)  
+Approximately one-to-two times a month, clean filter, replace media as necessary (30 min)  
+Approximately once every other month, clean impeller (30 min)  
 
 
 *RIP first wave of Thanksgiving Fish (x9(?) neon tetra). We love you*  
