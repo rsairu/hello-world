@@ -23,17 +23,20 @@
 
 ## Diet
 
+**FEEDING TIP**: (Father Fish) *A hungry fish is a healthy fish*. Common metric is eye is about size of stomach; little amount of food, what they can eat in 2-3 minutes (1 minute if few fish). If they don't have a clear appetite during feedings, they are overfed; reduce volume or frequency.
+
 *Breakfast only when young. Stopped after fish were about 2 months after got from pet store*  
 7-10 AM PST; Flakes
  
 **Dinner**  
-6-9 PM PST, 5-6 days/week; Flakes + bloodworm (freeze dried)  
-Crushed alga wafer for herbivores
+6-9 PM PST, 5-6 days/week
+* Flakes + bloodworm (freeze dried)  
+* Crushed alga wafer for herbivores (infrequent, as supplement for/variety from tank algae)
 
 **Snacks**  
-Infrequently  
-Crushed shrimp food (omnivore pellet) for mineralization  
-Blanched zucchini
+Infrequent
+* Crushed shrimp food (omnivore pellet) (mineralization)  
+* Blanched zucchini
 
 ## Plants
 
@@ -52,7 +55,7 @@ Blanched zucchini
 
 ## Habitat 
 
-**Photonic scehdule**  
+**Photonic schehdule**  
 ![](photonic.png)  
 *(Fluval AqauSky LED app) As you can see from the schedule, the fish and plants have a clear diurnal schedule*
 
@@ -71,7 +74,16 @@ Blanched zucchini
 * Fluval Aquasky LED
 * [Orlushy heater](https://github.com/rsairu/howto/blob/main/orlushy_heater.md)
 
+## Upkeep
+Approximately one-two times a month, 33% water change (once/2 weeks) (1 hr)
+Approximately one-to-two times a month, clean filter, replace media as necessary (30 min)
+Approximately once every other month, clean impeller (30 min)
+
+
 *RIP first wave of Thanksgiving Fish (x9(?) neon tetra). We love you*  
 *We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time.* -T. S. Eliot  
 *If I have seen further than others, it is by standing upon the shoulders of giants.* - Isaac Newton  
 *Treat the word impossible as nothing more than motivation*
+
+---
+*Thanks to contributors: [ProgrammerE](https://github.com/ProgrammerE)*
