@@ -81,10 +81,19 @@ Infrequent
 
 ## Upkeep
 
-Approximately one-two times a month, 33% water change (once/2 weeks) (1 hr)  
-Approximately one-to-two times a month, clean filter, replace media as necessary (30 min)  
-Approximately once every other month, clean impeller (30 min)  
+Every task here takes about 30-45 minute. So if you do more at once, that would be total service time
 
+|||
+| --- | --- |
+|Water change |~ one-two times a month, 33% (create a syphon and kick up dust with an eyedropper, pick a small area to work in)  
+|Aquascape| Usually done a little with water change, as water is low (trim, cut, remove, plant)
+|Service filter/filter media| ~ once a month, as necessary
+|Service impeller (of the filter)| ~ 4-5 year, clean impeller  
+|Service wave maker|As necessary, to clear error or brush algae
+
+
+---
+*Thanks to contributors: [ProgrammerE](https://github.com/ProgrammerE)*
 
 *RIP first wave of Thanksgiving Fish (x9(?) neon tetra). We love you*  
 *We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time.* -T. S. Eliot  
@@ -92,4 +101,3 @@ Approximately once every other month, clean impeller (30 min)
 *Treat the word impossible as nothing more than motivation*
 
 ---
-*Thanks to contributors: [ProgrammerE](https://github.com/ProgrammerE)*
