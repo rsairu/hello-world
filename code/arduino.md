@@ -18,6 +18,8 @@ see also store.arduino.cc/uno-r3
 (Georg Simon) **Ohm's Law**: **Voltage** (_V_; volts) is equal to the product of the **Current** (_I_; amperes or 'amps') and the **Resistence** (_R_; *Ω* (Greek Omega char) ohms) of a circuit, or _V = I * R_
 
 
+duty cycle: the percentage of time a pin is on `HIGH` (for pulse width modulation (PWM) and dimming)
+
 ## Language (Sketch(?))
 
 `const` // constant, used for a variable that will not change
