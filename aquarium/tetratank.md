@@ -55,7 +55,9 @@ Infrequent
 
 ## Habitat 
 
+
 ### Photonic schehdule
+
 
 ![](photonic.png)  
 *(Fluval AqauSky LED app) As you can see from the schedule, the fish and plants have a clear diurnal schedule*
@@ -74,10 +76,30 @@ Infrequent
 
 ## Tech
 
-* [Hygger Eco slim wave maker](https://github.com/rsairu/howto/blob/main/hygger_eco_slim.md)
-* [Fluval Aquaclear filter](https://github.com/rsairu/howto/blob/main/fluval_aquaclear_powerfilter.md)
-* Fluval Aquasky LED
-* [Orlushy heater](https://github.com/rsairu/howto/blob/main/orlushy_heater.md)
+| ITEM | COST |
+| [Hygger Eco slim wave maker](https://github.com/rsairu/howto/blob/main/hygger_eco_slim.md) | $ XXX.XX |
+| [Fluval Aquaclear filter](https://github.com/rsairu/howto/blob/main/fluval_aquaclear_powerfilter.md) | ¥ XXXXX.XX |
+| Fluval Aquasky LED |  ₽ XXXXX.XX |
+| [Orlushy heater](https://github.com/rsairu/howto/blob/main/orlushy_heater.md) | here, too |
+
+## Maintenance Costs
+
+| | |
+| Electricity per month | $2.58/month (room temp @ 71F, tank @ 75F) |
+| Feed per month | ? |
+
+## Upkeep
+
+Every task here takes about 30-45 minute. So if you do more at once, that would be total service time
+
+|||
+| --- | --- |
+|Water change |~ one-two times a month, 33% (create a syphon and kick up dust with an eyedropper, pick a small area to work in)  
+|Aquascape| Usually done a little with water change, as water is low (trim, cut, remove, plant)
+|Service filter/filter media| ~ once a month, as necessary
+|Service impeller (of the filter)| ~ 4-5 year, clean impeller  
+|Service wave maker|As necessary, to clear error or brush algae
+
 
 ## Upkeep
 
