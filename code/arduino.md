@@ -17,6 +17,7 @@ see also store.arduino.cc/uno-r3
 
 (Georg Simon) **Ohm's Law**: **Voltage** (_V_; volts) is equal to the product of the **Current** (_I_; amperes or 'amps') and the **Resistence** (_R_; *Ω* (Greek Omega char) ohms) of a circuit, or _V = I * R_
 
+Duty cycle: the percentage of time a pin is on `HIGH` (for pulse width modulation (PWM). Duty cycles create effects like dimming, for example, might be a light emitting diode with a duty cycle of 40%.
 
 ## Language (Sketch(?))
 
