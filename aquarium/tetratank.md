@@ -93,7 +93,8 @@ Every task here takes about 30-45 minute. So if you do more at once, that would 
 
 
 ---
-*Thanks to contributors: [ProgrammerE](https://github.com/ProgrammerE)*
+*Thanks to fishkeepers: Dana, Hideo, Maria, Amelia, Gigi  
+*Thanks to file contributors: [ProgrammerE](https://github.com/ProgrammerE)*
 
 *RIP first wave of Thanksgiving Fish (x9(?) neon tetra). We love you*  
 *We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time.* -T. S. Eliot  
