@@ -93,7 +93,7 @@ Every task here takes about 30-45 minute. So if you do more at once, that would 
 
 
 ---
-*Thanks to fishkeepers: Dana, Hideo, Maria, Amelia, Gigi  
+*Thanks to fishkeepers: Dana, Hideo, Maria, Amelia, Gigi*  
 *Thanks to file contributors: [ProgrammerE](https://github.com/ProgrammerE)*
 
 *RIP first wave of Thanksgiving Fish (x9(?) neon tetra). We love you*  
