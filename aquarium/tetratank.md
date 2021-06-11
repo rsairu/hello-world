@@ -5,11 +5,17 @@
 ![](tank.gif)  
 *4 months after set up*
 
-![](tetra_tank2.png)  
-*2 months after set up*
+## Tank development
 
 ![](tetra_tank.png)  
 *2 weeks after set up*
+
+![](tetra_tank2.png)  
+*2 months after set up*
+
+![](tetra_tank3.png)  
+*6 months after set up. Note the emergent bacopa*
+
 
 ## Fishy
 
