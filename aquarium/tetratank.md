@@ -14,7 +14,7 @@
 *2 months after set up*
 
 ![](tetra_tank3.png)  
-*6 months after set up. Note the emergent bacopa*
+*6 months after set up. Note the emergent bacopa monnieri and their suspended roots near the water line. The plants also have a mild algae bloom.*
 
 
 ## Fishy
@@ -25,7 +25,7 @@
 |x 11| Neon tetra [Paracheirodon innesi](https://en.wikipedia.org/wiki/Neon_tetra) | ![](neon.png) |
 |x3 (unplanned refugees) | Black neon tetra [Hyphessobrycon herbertaxelrodi](https://en.wikipedia.org/wiki/Black_neon_tetra) | *I need my photo taken :)* |
 |x 6 | Dwarf sucker [Otocinclus](https://en.wikipedia.org/wiki/Otocinclus) | ![](oto.gif) <br> *A dorsal view of an Oto swaying in the current* |
-|x 2 | Apple snails [Ampullariidae](https://en.wikipedia.org/wiki/Ampullariidae) | ![Gold snail](marimo.png) (*female*) <br> ![](blackSnail.png)(*male*)|
+|x 2 | Apple snails [Ampullariidae](https://en.wikipedia.org/wiki/Ampullariidae) | ![Gold snail](marimo.png) (*female; RIP 6/6/21*) <br> ![](blackSnail.png)(*male*)|
 
 ## Diet
 
