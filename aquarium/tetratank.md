@@ -1,6 +1,6 @@
 # Tetra Tank
 
-20 gallon community tetra tank in [iwagumi](https://duckduckgo.com/?q=iwagumi&iax=images&ia=images) style and '[Walstad](https://duckduckgo.com/?q=walstad+method&ia=web)' method.  
+20 gallon planted tetra tank with [iwagumi](https://duckduckgo.com/?q=iwagumi&iax=images&ia=images) influence. Planted in a modified [Father Fish](https://www.youtube.com/channel/UC_yczBK9HleS-HOFFHtM5Wg) - '[Walstad](https://duckduckgo.com/?q=walstad+method&ia=web)' deep substrate  method.  
 
 ![](tank.gif)  
 *4 months after set up*
@@ -25,17 +25,14 @@
 |x 11| Neon tetra [Paracheirodon innesi](https://en.wikipedia.org/wiki/Neon_tetra) | ![](neon.png) |
 |x3 (unplanned refugees) | Black neon tetra [Hyphessobrycon herbertaxelrodi](https://en.wikipedia.org/wiki/Black_neon_tetra) | *I need my photo taken :)* |
 |x 6 | Dwarf sucker [Otocinclus](https://en.wikipedia.org/wiki/Otocinclus) | ![](oto.gif) <br> *A dorsal view of an Oto swaying in the current* |
-|x 2 | Apple snails [Ampullariidae](https://en.wikipedia.org/wiki/Ampullariidae) | ![Gold snail](marimo.png) (*female; RIP 6/6/21*) <br> ![](blackSnail.png)(*male*)|
+|x 2 | Apple snails [Ampullariidae](https://en.wikipedia.org/wiki/Ampullariidae) | ![Gold snail](marimo.png) (*female; RIP 6/6/21*) <br> ![](blackSnail.png)(*male; moved out after Yellow passed away*)|
 
 ## Diet
 
 **FEEDING TIP**: (Father Fish) *A hungry fish is a healthy fish*. Common metric is eye is about size of stomach; little amount of food, what they can eat in 2-3 minutes (1 minute if few fish). If they don't have a clear appetite during feedings, they are overfed; reduce volume or frequency.
 
-*Breakfast only when young. Stopped after fish were about 2 months after got from pet store*  
-7-10 AM PST; Flakes
- 
-**Dinner**  
-6-9 PM PST, 5-6 days/week
+5-6 days/week (anytime between 8AM - 8PM; usually not midday)
+
 * Flakes + bloodworm (freeze dried)  
 * Crushed alga wafer for herbivores (infrequent, as supplement for/variety from tank algae)
 
