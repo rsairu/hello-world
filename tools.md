@@ -11,6 +11,9 @@ Bottom row: N O (up) P (down) Q (up) R (down) S
 
 ## A
 
+- Case - Bose Mini Soundlink
+- Spare pouches (x2)
+
 ## B
 
 # 2 Second row (Open shelf)
@@ -34,9 +37,18 @@ Bottom row: N O (up) P (down) Q (up) R (down) S
 
 ## E
 
+- Thunder to Thunder + AUX
+- Thunder to HDMI
+- USB C to Thunder x2
+- Wireless charging station
+- USB 1-to-2 splitter
+- USB bluetooth
+- USB Logitech receiver
+
 ## F
 
 - Precision screwdriver set
+- Antenna adapters
 
 ## G
 
@@ -44,6 +56,15 @@ Bottom row: N O (up) P (down) Q (up) R (down) S
 
 # 4 - Fourth row
 
+# 5 - Fifth row (double wides)
+
+## L
+
+## M
+
+- Coaxial cables (x1 XS, x2 M)
+- Ethernet cables (x3 S, x1 M)
+- 
 
 # Bottom row
 
@@ -51,20 +72,31 @@ Bottom row: N O (up) P (down) Q (up) R (down) S
 
 - Heat gun
 - Sander
+- Extension cables (x2 M)
 
 ## O (up)
+
+- Sewing kits
+- Fabric scissors
 
 ## P (down)
 
 - Computer fans
 - Intel NUC (thin) + power cable
   - USB cooling fan mounting hardware
+- Mechanical keyboard spares + puller
+- Kinetic speaker
 
 ## Q (up)
 
 ## R (down)
 
-- Mask
+- 
 - 
 
 ## S (Bottom right)
+
+- PPE
+  - Mask
+  - Goggles
+  - Ear muffs
