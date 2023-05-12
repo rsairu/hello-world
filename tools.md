@@ -2,14 +2,18 @@
 
 A Top left; S Bottom right  
 Top row: A B  
-Second row: C  (Open shelf counts as "row"
+Second row: C  (Open shelf counts as "row")  
 Third row: D E F G  
 ...  
 Bottom row: N O (up) P (down) Q (up) R (down) S  
 
-# 1 - First row - Top
+# 1 - First row (top)
 
-# 2 Second row - Open shelf
+## A
+
+## B
+
+# 2 Second row (Open shelf)
 
 ## C (Open shelf)
 
@@ -19,6 +23,14 @@ Bottom row: N O (up) P (down) Q (up) R (down) S
 # 3 Third row
 
 ## D
+
+- Aquos phone
+- Screen protector
+  - 6s (Hinako)
+  - 8 (Gaku)
+  - Big. Useless?
+- Old iPad (A1489)
+- Airpods Pro (Spare, old Gaku)
 
 ## E
 
@@ -42,7 +54,11 @@ Bottom row: N O (up) P (down) Q (up) R (down) S
 
 ## O (up)
 
-## P (down
+## P (down)
+
+- Computer fans
+- Intel NUC (thin) + power cable
+  - USB cooling fan mounting hardware
 
 ## Q (up)
 
