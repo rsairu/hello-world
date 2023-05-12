@@ -16,6 +16,12 @@ Bottom row: N O (up) P (down) Q (up) R (down) S
 
 ## B
 
+- Screwdriver
+- Measuring tape
+- Levels (Bubble, laser)
+- Box cutter + spare blades
+- Scissors
+
 # 2 Second row (Open shelf)
 
 ## C (Open shelf)
