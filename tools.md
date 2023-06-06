@@ -16,13 +16,17 @@ Bottom row: N O (up) P (down) Q (up) R (down) S
 - Case - Bose Mini Soundlink
 - Spare pouches (x2)
 
-## B
+## B - Useful
 
 - Screwdriver
+- Screwdriver (long tip)
 - Measuring tape
-- Levels (Bubble, laser)
+- Level (Bubble)
 - Box cutter + spare blades
 - Scissors
+- Snips
+- Hammer
+- Mag bracelet
 
 # 2 Second row (Open shelf)
 
@@ -30,10 +34,14 @@ Bottom row: N O (up) P (down) Q (up) R (down) S
 
 - Computer Monitor Stands x2
 - Electric drill
+- Torque wrnech
+- Oil filter wrench
+- Crowbar
+- Bar clamp
 
 # 3 Third row
 
-## D
+## D - Phone related
 
 - Aquos phone
 - Screen protector
@@ -43,7 +51,7 @@ Bottom row: N O (up) P (down) Q (up) R (down) S
 - Old iPad (A1489)
 - Airpods Pro (Spare, old Gaku)
 
-## E
+## E - USB / Cables
 
 - Thunder to Thunder + AUX
 - Thunder to HDMI
@@ -56,6 +64,7 @@ Bottom row: N O (up) P (down) Q (up) R (down) S
 ## F
 
 - Precision screwdriver set
+- Precision set ("jewelry" type)
 - Antenna adapters
 
 ## G
@@ -64,15 +73,43 @@ Bottom row: N O (up) P (down) Q (up) R (down) S
 
 # 4 - Fourth row
 
+## H
+
+- Hooks
+
+## I
+
+- Socket extender
+- Socket angle converter
+- Socket size converter
+- Bolt breaker
+- Impact bit set
+
+## J - Ojiichama's tools
+
+- Pipe wrench
+- Adjustable wrench
+- Ultra long flat head
+- Fine pliers, tweezers
+- Rasp
+- Chisel x3
+- Chisel (Nail of the Cross)
+
+## K
+
+- Drill bit set
+
 # 5 - Fifth row (double wides)
 
 ## L
 
-## M
+## M - Networking cables
 
-- Coaxial cables (x1 XS, x2 M)
-- Ethernet cables (x3 S, x1 M)
-- 
+- Coaxial cables (x1 XS, x2 M, x2 right angle M)
+- Ethernet cables (x3 S, x1 M, x2 L)
+- Coax splitter, male-to-male (extender) connector
+- RJ45 (x1 M)
+- Antenna adaptors
 
 # Bottom row
 
@@ -82,27 +119,31 @@ Bottom row: N O (up) P (down) Q (up) R (down) S
 - Sander
 - Extension cables (x2 M)
 
-## O (up)
+## O (up) - Sewing
 
-- Sewing kits
+- Sewing kits, buttons
 - Fabric scissors
+- Little house bed comforter patch kit
 
-## P (down)
+## P (down) - Computer
 
 - Computer fans
 - Intel NUC (thin) + power cable
   - USB cooling fan mounting hardware
 - Mechanical keyboard spares + puller
 - Kinetic speaker
+- Cable wraps
 
 ## Q (up)
 
+- Paint tip
+
 ## R (down)
 
-- 
-- 
+- Scotch tape
+- Level (Laser)
 
-## S (Bottom right)
+## S (Bottom right) - PPE
 
 - PPE
   - Mask
