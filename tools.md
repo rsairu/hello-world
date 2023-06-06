@@ -7,6 +7,8 @@ Third row: D E F G
 ...  
 Bottom row: N O (up) P (down) Q (up) R (down) S  
 
+![](drawer.png)
+
 # 1 - First row (top)
 
 ## A
